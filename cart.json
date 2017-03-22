@@ -1,0 +1,10 @@
+{ 
+   "client_id":"9958ee7d-f211-4335-b476-645cc40e4579",
+   "cart_id":"c9b91c44-782e-49bf-a518-a597f4659b5b",
+   "products":[  
+      {  
+         "name":"Açai",
+         "price":1050
+      }
+   ]
+}
