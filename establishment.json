@@ -1,0 +1,18 @@
+{  
+   "name":"Melior graum",
+   "id":"7cbdfd92-da0e-472d-a59b-8b74a583a700",
+   "products":[  
+      {  
+         "name":"Açai",
+         "price":1050
+      },
+      {  
+         "name":"Coxinha",
+         "price":399
+      },
+      {  
+         "name":"Coca verde",
+         "price":499
+      }
+   ]
+}
